@@ -3,7 +3,7 @@ CTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/
 <plist version="1.0">
 <dict>
     <key>name</key>
-    <string>EggplantParm</string>
+    <string>EggplantParm-yummta</string>
     <key>settings</key>
     <array>
         <dict>
